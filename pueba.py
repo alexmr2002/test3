@@ -1,4 +1,4 @@
-msg="Hola a todos FINAL"
+msg="Hola a todos"
 msg2="Hola a rama"
 
 num1=5
