@@ -1,2 +1,2 @@
-msg="Hola a todos rama1"
-print(msg)
+msg1="Hola a todos rama1"
+print(msg1)
