@@ -1,6 +1,10 @@
 msg="Hola a todos"
+msg2="Hola a rama"
+
+num1=5
+num2=12
+num3=num1+num2
 
 print(msg)
-prueba1="Probando merge 1.2"
-
-print(prueba1)
+print(msg2)
+print(num3)
