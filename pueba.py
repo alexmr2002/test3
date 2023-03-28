@@ -1,6 +1,3 @@
-
-msg="Hola a todos rama1"
-
-msg="Hola a todos rama2"
+msg="Hola a todos"
 
 print(msg)
