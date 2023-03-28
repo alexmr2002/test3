@@ -1,5 +1,5 @@
 msg="Hola a todos"
-msg2="Hola a rama"
+msg2="Hola a rama 2"
 
 num1=5
 num2=7
