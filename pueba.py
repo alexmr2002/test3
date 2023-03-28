@@ -1,4 +1,7 @@
+msg="Hola a todos"
 
-msg2="Hola a todos rama2"
+print(msg)
 
-print(msg2)
+prueba22="Prueba otro merge"
+
+print(prueba22)
